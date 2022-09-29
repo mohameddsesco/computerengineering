@@ -1,2 +1,1 @@
-# computerengineering
-this is me
+print ("Hello world")
